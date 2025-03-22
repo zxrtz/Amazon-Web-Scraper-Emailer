@@ -1,5 +1,5 @@
 # Amazon-Web-Scraper-Emailer
-Using Python, automated the collection of Amazon data to email potential discounts to users daily.
+Using Python, I automated the collection of Amazon data to email potential discounts to users daily.
 
 This specific program checks daily if the price of this t-shirt goes below $15. The daily prices are added to a csv file locally. 
 
