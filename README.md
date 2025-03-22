@@ -7,6 +7,6 @@ If the price goes below $15 on a certain day, then the program will automaticall
 
 ![image](https://github.com/user-attachments/assets/0af5751f-898b-49cd-a17b-1676f17b789a)
 
-A code sample:
+A code sample of a function that periodically checks the price every 24 hours:
 
 ![image](https://github.com/user-attachments/assets/6abe3736-73b1-478a-b4a3-be0c54df81c7)
